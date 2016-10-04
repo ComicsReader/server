@@ -1,5 +1,8 @@
-
 # ComicsReader API Proxy Server
+
+**Note**
+
+> This package is already deprecated, ComicsReader now use firebase as backend.
 
 The proxy server for ComicsReader app.
 
